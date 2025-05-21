@@ -1,2 +1,3 @@
-module CidadaoNow {
-}
+//module CidadaoNow {
+//	requires com.google.gson;
+//}

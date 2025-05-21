@@ -23,3 +23,9 @@ Idade: 85
 Email: ola@mail.com
 Número: 1232112300
 ----------
+Nome: TesteCEP
+Idade: 99
+Email: cep@viacep.com
+Número: 1239965499789
+Cep: 01001-000
+----------
