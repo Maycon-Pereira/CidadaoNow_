@@ -1,0 +1,25 @@
+Nome: Maycon
+Idade: 19
+Email: maycon@email.com
+Número: 123456789987
+----------
+Nome: Luiz
+Idade: 25
+Email: luiz@email.com
+Número: 987258654123
+----------
+Nome: maria
+Idade: 22
+Email: maria@email.com
+Número: 121212454545
+----------
+Nome: teste
+Idade: 2
+Email: email
+Número: 123564
+----------
+Nome: ola
+Idade: 85
+Email: ola@mail.com
+Número: 1232112300
+----------
