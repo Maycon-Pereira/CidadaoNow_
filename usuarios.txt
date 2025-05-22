@@ -29,3 +29,9 @@ Email: cep@viacep.com
 Número: 1239965499789
 Cep: 01001-000
 ----------
+Nome: Logado
+Idade: 25
+Email: login@gmail.com
+Número: 78784545969
+Cep: 01001-000
+----------
