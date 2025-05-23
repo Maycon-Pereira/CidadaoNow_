@@ -5,8 +5,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-import project.Usuario;
 import project.endereco.Endereco;
+import project.entity.Usuario;
 import project.utils.IntegracaoApi;
 import project.utils.Login;
 

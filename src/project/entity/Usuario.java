@@ -1,4 +1,4 @@
-package project;
+package project.entity;
 
 import project.endereco.Endereco;
 

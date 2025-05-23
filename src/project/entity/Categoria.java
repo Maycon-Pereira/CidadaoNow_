@@ -1,4 +1,4 @@
-package project;
+package project.entity;
 
 public enum Categoria {
 

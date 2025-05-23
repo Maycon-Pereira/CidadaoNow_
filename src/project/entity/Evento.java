@@ -1,11 +1,13 @@
-package project;
+package project.entity;
 
 import java.time.LocalDateTime;
+
+import project.endereco.Endereco;
 
 public class Evento {
 	
 	protected String nome; 
-	protected String endereco;
+	protected Endereco endereco;
 	protected Categoria categoria;
 	protected LocalDateTime horarioInicio;
 	protected LocalDateTime horarioTermino;
@@ -13,7 +15,7 @@ public class Evento {
 	
 	public Evento() {}
 
-	public Evento(String nome, String endereco, Categoria categoria, LocalDateTime horarioInicio,
+	public Evento(String nome, Endereco endereco, Categoria categoria, LocalDateTime horarioInicio,
 			LocalDateTime horarioTermino, String descricao) {
 		this.nome = nome;
 		this.endereco = endereco;
@@ -31,11 +33,11 @@ public class Evento {
 		this.nome = nome;
 	}
 
-	public String getEndereco() {
+	public Endereco getEndereco() {
 		return endereco;
 	}
 
-	public void setEndereco(String endereco) {
+	public void setEndereco(Endereco endereco) {
 		this.endereco = endereco;
 	}
 

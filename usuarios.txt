@@ -35,3 +35,7 @@ Email: login@gmail.com
 Número: 78784545969
 Cep: 01001-000
 ----------
+Nome: null
+Idade: 0
+Email: null
+Número: null
